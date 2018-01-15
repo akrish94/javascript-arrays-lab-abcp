@@ -6,7 +6,11 @@ function destructivelyAppendKitten(name){
   kittens.push(name)
 }
 
-function destructivelyPrependKitten(name){  
+function destructivelyPrependKitten(name){
+  
+}
+  
+  
   describe('destructivelyPrependKitten(name)', function() {
     it('prepends a kitten to the beginning of the kittens array', function() {
       destructivelyPrependKitten("Bob")
