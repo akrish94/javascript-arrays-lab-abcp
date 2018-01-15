@@ -1,5 +1,6 @@
 const app = "I don't do much."
 
+function arrays 
 describe('Arrays', function() {
   beforeEach(function() {
     window.kittens = ['Milo', 'Otis', 'Garfield'];
